@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1405956747 source:/home/alumno/Documents/Estructura de Datod/Pilas/main.cpp
+	<iostream>
+	<stack>
+
